@@ -15,7 +15,7 @@ const contributorsEmployeeMapping = {
   ChrisCindy: "y576973",
   answershuto: "71r-sp8sbu5w5",
   ClarkXia: "nfw_re9zo9j3h",
-  lunbudu599: "1wa_62eg934kpd",
+  linbudu599: "1wa_62eg934kpd",
 };
 
 const atDingtalkIds = [];
