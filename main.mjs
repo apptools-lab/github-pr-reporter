@@ -52,7 +52,7 @@ function queryIssues(repos) {
 }
 
 function main() {
-  queryIssues(["alibaba/ice", "ice-lab/icepkg"])
+  queryIssues(["alibaba/ice", "ice-lab/icepkg", "ice-lab/icepack"])
     .then((issues) => {
       if (Array.isArray(issues) && issues.length > 0) {
         const tasks = [];
